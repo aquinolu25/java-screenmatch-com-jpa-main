@@ -1,4 +1,4 @@
-package br.com.alura.screenmatch.model;
+package br.com.aquino.screenmatch.model;
 
 import jakarta.persistence.*;
 
