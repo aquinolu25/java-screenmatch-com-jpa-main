@@ -8,7 +8,6 @@ public class ConsultaChatGPT {
 
 
             OpenAiService service = new OpenAiService(System.getenv("OPENAI_APIKEY"));
-            // Requisição com chatGPT - porém não tenho APIKEY =(
             CompletionRequest requisicao = CompletionRequest.builder()
                     .model("text-davinci-003")
                     .prompt("traduza para o português o texto: " + texto)

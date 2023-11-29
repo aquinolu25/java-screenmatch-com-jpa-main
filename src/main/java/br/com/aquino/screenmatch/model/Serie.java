@@ -27,7 +27,6 @@ public class Serie {
     private List<Episodio> episodios = new ArrayList<>();
 
     public Serie() {
-
     }
 
     public Serie(DadosSerie dadosSerie){
