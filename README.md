@@ -2,6 +2,23 @@
 
 Projeto desenvolvido no segundo curso da formação Avançando com Java da Alura
 
+## 🔰 Descrição
+ScreenMatch é uma aplicação web REST que atua como um repositório de séries, semelhante ao IMDb. 
+A aplicação lista todas as temporadas de cada série, calcula a média de notas para cada série e destaca os principais episódios. 
+Todas as operações são realizadas por meio de requisições GET.
+
+## 🔧 Funcionalidades
+- Listar Todas as Temporadas: Obtenha uma visão geral de todas as temporadas disponíveis para cada série.
+- Média de Notas por Série: Descubra a média de notas para cada série com base nas avaliações dos usuários.
+- Top Episódios: Veja quais episódios se destacam como os melhores, conforme as avaliações dos usuários.
+
+## 🖥️ Tecnologias Utilizadas
+- Java: Linguagem principal de programação.
+- Spring Boot: Framework utilizado para o desenvolvimento da aplicação RESTful seguindo o padrão MVC.
+- PostgreSQL: Sistema de gerenciamento de banco de dados relacional.
+- JPA (Java Persistence API) e Hibernate: Utilizados para mapeamento objeto-relacional e operações de CRUD no banco de dados.
+- Padrões de Projeto: Utiliza padrões DTO (Data Transfer Object) para transferência de dados entre camadas.
+
 
 ## 🔨 Objetivos do projeto
 
