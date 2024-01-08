@@ -8,9 +8,10 @@ A aplicação lista todas as temporadas de cada série, calcula a média de nota
 Todas as operações são realizadas por meio de requisições GET.
 
 ## 🔧 Funcionalidades
-- Listar Todas as Temporadas: Obtenha uma visão geral de todas as temporadas disponíveis para cada série.
-- Média de Notas por Série: Descubra a média de notas para cada série com base nas avaliações dos usuários.
-- Top Episódios: Veja quais episódios se destacam como os melhores, conforme as avaliações dos usuários.
+- [x] Listar Todas as Temporadas: Obtenha uma visão geral de todas as temporadas disponíveis para cada série.
+- [x] Média de Notas por Série: Descubra a média de notas para cada série com base nas avaliações dos usuários.
+- [x] Top Episódios: Veja quais episódios se destacam como os melhores, conforme as avaliações dos usuários.
+- [x] Obter séries por categoria: Filtre as séries pelo gênero.
 
 ## 🖥️ Tecnologias Utilizadas
 - Java: Linguagem principal de programação.
@@ -29,3 +30,5 @@ Todas as operações são realizadas por meio de requisições GET.
 - Conhecer vários tipos de banco de dados e utilizar o PostgreSQL;
 - Trabalhar com vários tipos de consultas ao banco de dados;
 - Aprofundar na interface JPARepository
+
+  ## Autor: Luiz Gonzaga de Aquino
